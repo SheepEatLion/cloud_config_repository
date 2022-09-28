@@ -1,0 +1,6 @@
+# test code
+spring:
+  datasource:
+    uri: myEnvironment
+    username: root
+    password: password
