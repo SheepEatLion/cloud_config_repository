@@ -1,2 +1,1 @@
-# cloud_config_server
-MSA for GreenWorld
+# cloud_config_server_repository
